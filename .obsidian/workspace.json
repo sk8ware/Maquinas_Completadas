@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Vulnyx/Magic.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Magic"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -62,14 +69,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 228.5086555480957
   },
   "right": {
     "id": "c9b6f73a90dcdea7",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Máquinas Realizadas/HTB/Bizness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Bizness"
             }
           },
           {
@@ -102,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Máquinas Realizadas/HTB/Bizness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Bizness"
             }
           },
           {
@@ -116,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -125,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
-              }
+                "file": "Máquinas Realizadas/HTB/Bizness.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Bizness"
             }
           }
         ]
@@ -149,12 +166,15 @@
   },
   "active": "a682e331e162f1e3",
   "lastOpenFiles": [
+    "Máquinas Realizadas/HTB/Bizness.md",
+    "Vulnyx/Magic.md",
+    "Vulnyx",
+    "README.md",
+    "Máquinas Realizadas/HTB/WifineticTwo.md",
     "Máquinas Realizadas/HTB/Máquina Lame.md",
     "Máquinas Realizadas/HTB/Hospital.md",
     "Máquinas Realizadas/HTB",
     "Máquinas Realizadas/HTB/BUILDER.md",
-    "Máquinas Realizadas/HTB/Bizness.md",
-    "README.md",
     "Máquinas Realizadas",
     "hola.md",
     "Bienvenido.md"
