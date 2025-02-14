@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vulnyx/Magic.md",
+                "file": "VulHub/ICA1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magic"
+              "title": "ICA1"
             }
           }
         ]
@@ -166,8 +166,10 @@
   },
   "active": "a682e331e162f1e3",
   "lastOpenFiles": [
-    "Máquinas Realizadas/HTB/Bizness.md",
     "Vulnyx/Magic.md",
+    "VulHub/ICA1.md",
+    "VulHub",
+    "Máquinas Realizadas/HTB/Bizness.md",
     "Vulnyx",
     "README.md",
     "Máquinas Realizadas/HTB/WifineticTwo.md",
