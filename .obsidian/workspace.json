@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VulHub/ICA1.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ICA1"
+              "title": "README"
             }
           }
         ]
@@ -164,19 +164,19 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a682e331e162f1e3",
+  "active": "8c8ef408277f270c",
   "lastOpenFiles": [
-    "Vulnyx/Magic.md",
     "VulHub/ICA1.md",
+    "Vulnyx/Magic.md",
     "VulHub",
-    "Máquinas Realizadas/HTB/Bizness.md",
+    "HTB/Bizness.md",
     "Vulnyx",
     "README.md",
     "Máquinas Realizadas/HTB/WifineticTwo.md",
-    "Máquinas Realizadas/HTB/Máquina Lame.md",
-    "Máquinas Realizadas/HTB/Hospital.md",
-    "Máquinas Realizadas/HTB",
-    "Máquinas Realizadas/HTB/BUILDER.md",
+    "HTB/Máquina Lame.md",
+    "HTB/Hospital.md",
+    "HTB",
+    "HTB/BUILDER.md",
     "Máquinas Realizadas",
     "hola.md",
     "Bienvenido.md"
