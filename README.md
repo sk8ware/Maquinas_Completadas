@@ -14,7 +14,7 @@ Maquinas realizadas en **Hack The Box**:
 Máquinas realizadas de **Vulhub**:
 
 -----
-- ICA: 1 
+- ICA: 1 - **easy difficulty**
 ----
 
 # Vulnyx
@@ -22,7 +22,7 @@ Máquinas realizadas de **Vulhub**:
 Máquinas realizadas de **Vulnyx**:
 
 ----
-- MAGIC
+- MAGIC: **easy difficulty**
 ----
 
 
