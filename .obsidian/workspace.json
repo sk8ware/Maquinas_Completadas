@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Chagenlles/Brevi Moduli.md",
+                "file": "HTB/Challenges/Brevi Moduli.md",
                 "mode": "source",
                 "source": false
               },
@@ -166,12 +166,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "bf2c62f7b83e9024",
+  "active": "6f9e781c978bfd04",
   "lastOpenFiles": [
-    "HTB/Chagenlles/Alphascii Clashing.md",
-    "HTB/Chagenlles/Brevi Moduli.md",
+    "HTB/Challenges/Alphascii Clashing.md",
+    "HTB/Challenges/Brevi Moduli.md",
     "HTB/LEGACY.md",
-    "HTB/Chagenlles",
+    "HTB/Challenges",
     "HTB/Máquina Lame.md",
     "HTB/Máquinas realizadas antes del eJPT.md",
     "HTB/Instant - OSCP Style.md",
