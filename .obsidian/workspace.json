@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ebbfed574605b55",
+            "id": "bf2c62f7b83e9024",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Instant - OSCP Style.md",
+                "file": "HTB/Chagenlles/Brevi Moduli.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Instant - OSCP Style"
+              "title": "Brevi Moduli"
             }
           }
         ]
@@ -166,11 +166,26 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5ebbfed574605b55",
+  "active": "bf2c62f7b83e9024",
   "lastOpenFiles": [
-    "Pasted image 20250311005201.png",
+    "HTB/Chagenlles/Alphascii Clashing.md",
+    "HTB/Chagenlles/Brevi Moduli.md",
+    "HTB/LEGACY.md",
+    "HTB/Chagenlles",
+    "HTB/Máquina Lame.md",
+    "HTB/Máquinas realizadas antes del eJPT.md",
     "HTB/Instant - OSCP Style.md",
+    "HTB/Hospital.md",
+    "HTB/Bizness.md",
+    "HTB/BUILDER.md",
+    "HTB/Chemistry - OSCP Style.md",
+    "README.md",
+    "HTB/Cicada.md",
     "Pasted image 20250310225616.png",
-    "Pasted image 20250310225504.png"
+    "Pasted image 20250310225504.png",
+    "ejpt.md",
+    "Pasted image 20250311005201.png",
+    "Máquinas Realizadas",
+    "Validation - eJPT.md"
   ]
 }
