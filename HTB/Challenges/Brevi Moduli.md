@@ -129,13 +129,12 @@ def solveChallenge():
 
 		connection.recvline()
 
-	print(f"\n\n[+] M
-	ostrando la flag:\n\n")
+	print(f"\n\n[+] Mostrando la flag:\n\n")
 	flag = connection.recvline().decode()
 	print(flag)
 
 if __name__ == '__main__':
-	connection = remote("94.237.51.163", 50124)
+	connection = remote("IP.Victima", <Puerto>)
 	solveChallenge()
 ```
 
