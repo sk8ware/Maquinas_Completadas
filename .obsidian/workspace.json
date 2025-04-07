@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a8d5ee3cd519207b",
@@ -166,7 +167,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "6f9e781c978bfd04",
+  "active": "bf2c62f7b83e9024",
   "lastOpenFiles": [
     "HTB/Challenges/Alphascii Clashing.md",
     "HTB/Challenges/Brevi Moduli.md",
